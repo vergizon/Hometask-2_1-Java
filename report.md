@@ -6,7 +6,7 @@
 
 В результате тестирования выявлен следующий дефект:
 
-[Incorrect current balance](https://github.com/vergizon/Hometask---2.1-Java.git) .
+[Incorrect current balance](https://github.com/vergizon/Hometask-2_1-Java/issues/1) .
 
 
 # Описание процесса тестирования
